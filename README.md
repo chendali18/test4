@@ -6,3 +6,4 @@ trick
 
 trick1
 
+trick2
